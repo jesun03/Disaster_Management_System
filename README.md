@@ -1,3 +1,3 @@
 # Disaster_Management_System
-This is my first project
+This is our first project.
 
